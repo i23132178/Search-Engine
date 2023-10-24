@@ -53,11 +53,11 @@ Here are listed all the aspects of the API project, with details for each sectio
  
 ###### Dependencies
 Using the latest version of Lucene.net packages as well as Swashbuckle and OpenApi
--    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
--       <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
--   <PackageReference Include="Lucene.Net" Version="4.8.0-beta00016" />
--       <PackageReference Include="Lucene.Net.Analysis.Common" Version="4.8.0-beta00016" />
--   <PackageReference Include="Lucene.Net.QueryParser" Version="4.8.0-beta00016" />
+- <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
+- <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+- <PackageReference Include="Lucene.Net" Version="4.8.0-beta00016" />
+- <PackageReference Include="Lucene.Net.Analysis.Common" Version="4.8.0-beta00016" />
+- <PackageReference Include="Lucene.Net.QueryParser" Version="4.8.0-beta00016" />
  
 ###### Models
 - Created folder name: Models
@@ -110,8 +110,8 @@ It configures Controllers, DI services, CORS policies and dev API tester Swagger
 - Using the latest Bootstrap framework to design the UI elements and components.
  
 ###### Dependencies
--   <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.11" />
--   <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.11" PrivateAssets="all" />
+- <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.11" />
+- <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.11" PrivateAssets="all" />
  
 ###### Models
 - Created folder name: Models
