@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="Multiple Projects Of Search Engine" GitUserInfo="UsingMD">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects Of Search Engine" Name="Multiple Projects Of Search Engine">
+      <Items>
+        <StartupItem ItemId="{BFCDE31D-ABB3-4D79-9194-6D7C373B06FB}" ItemName="SearchEngine.API" ConfigurationId="https" />
+        <StartupItem ItemId="{941C81A1-AB4A-4AC1-8FE3-E534841029BE}" ItemName="SearchEngine.UI" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.SearchEngine.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <AuthorInfo Name="Iman Janghorban" Email="iman.janghorban5@gmail.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.ItemProperties.SearchEngine.UI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <Debugger.DebugSourceFolders />
+</Properties>

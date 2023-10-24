@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SearchEngine.UI
+build_property.RootNamespace = SearchEngine.UI
+build_property.ProjectDir = /Users/imi/Training2024/SearchEngine/SearchEngine.UI/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/imi/Training2024/SearchEngine/SearchEngine.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/Pages/IndexContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXhDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/Pages/SearchContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VhcmNoQ29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-58sqf5j7xo
+
+[/Users/imi/Training2024/SearchEngine/SearchEngine.UI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-100g5hhkf7
