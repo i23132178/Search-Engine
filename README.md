@@ -1,4 +1,4 @@
-# IC Search Engine
+# IC Search Engine Documentation
 This documentation of the Search Engine Service outlines and explains each step of its creation and configuration, in addition to expansion suggestions and future avenues.
 
 ### Project Overview
